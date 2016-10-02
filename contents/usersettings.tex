@@ -1,0 +1,36 @@
+% !Mode:: "TeX:UTF-8"
+% usersettings.tex
+\usepackage{paralist}
+\usepackage{dtklogos}
+\usepackage{xcolor}
+\usepackage{listings}
+% Add Chapter to TOC && Remove Contents from TOC
+\usepackage[chapter, nottoc]{tocbibind}
+% 允许使用子图 subfloat
+\usepackage{subfig}
+% 允许使用图文混排
+\usepackage{wrapfig}
+% picinpar 和 picins 都无法成功实现图文混排。
+% \usepackage{picinpar}
+% \usepackage{picins}
+% 使用 ccmap，则英文和数字都正常。如果论文重复率高的话，注释掉 ccmap ，英文和数字被映射为汉字，相当于增加干扰码，降低重复率。
+\usepackage{ccmap}
+
+% \newtheorem{环境名}[编号延续]{显示名}[编号层次]
+% 在下例中，我们定义了四个环境：定义、定理、引理和推论，它们都在一个section内编号，而引理和推论会延续定理的编号。
+% \newtheorem{definition}{定义}[section]
+% \newtheorem{theorem}{定理}[section]
+% \newtheorem{lemma}[theorem]{引理}
+% \newtheorem{corollary}[theorem]{推论}
+
+\lstset{language=TeX}
+% \lstset{extendedchars=false}
+\lstset{breaklines}	
+\lstset{numbers=left,numberstyle=\tiny,%commentstyle=\color{red!50!green!50!blue!50},
+frame=shadowbox,rulesepcolor=\color{red!20!green!20!blue!20},escapeinside=``,
+xleftmargin=2em,xrightmargin=2em,aboveskip=1em,backgroundcolor=\color{red!3!green!3!blue!3},
+basicstyle=\small\ttfamily,stringstyle=\color{purple},keywordstyle=\color{blue!80}\bfseries,
+commentstyle=\color{olive}}
+\numberwithin{footnote}{page}
+\renewcommand{\thefootnote}{\arabic{footnote}}
+\renewcommand{\CTeX}{\SHUANG{C}\TeX}

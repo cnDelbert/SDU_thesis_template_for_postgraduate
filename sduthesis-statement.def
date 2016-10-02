@@ -1,0 +1,32 @@
+\newcommand{\makestatement}{%
+\begin{titlepage}
+\vspace{2cm} {\zihao{4}\baselineskip=30pt
+
+\centerline{\zihao{3}\bfseries 原\quad 创\quad 性\quad 声\quad 明}
+
+\noindent\hspace*{2em}本人郑重声明：所呈交的学位论文，是本人在导师指导下，独
+立进行研究所取得的成果。除文中已经注明引用的内容外，本论文不包
+含任何其他个人或集体已经发表或撰写过的科研成果。对本论文的研究作出重
+要贡献的个人和集体，均已在文中以明确方式标明。本声明
+的法律责任由本人承担。
+
+\vspace{13mm}
+
+\noindent\hspace*{2em}论文作者签名：\hrulefill \hspace{1em}日\hspace{1em} 期：\hrulefill
+
+\vspace{2.7cm}
+
+\centerline{\zihao{3}\bfseries 关于学位论文使用授权的声明}
+
+\noindent\hspace*{2em}本人完全了解山东大学有关保留、使用学位论文的规定，同意学
+校保留或向国家有关部门或机构送交论文的复印件和电子版，允许论文被查阅
+和借阅；本人授权山东大学可以将本学位论文全部或部分内容编入有关数据库
+进行检索，可以采用影印、缩印或其他复制手段保存论文和汇编本学位论文。
+
+\noindent\hspace*{2em}（保密的论文在解密后应遵守此规定）
+
+\vspace{13mm}
+
+\noindent\hspace*{2em}论文作者签名：\hrulefill\hrulefill\hspace{0.5em} 导师签名：\hrulefill\hrulefill\hspace{0.5em}日\hspace{0.5em}期：\hrulefill \hrulefill }
+\end{titlepage}
+}

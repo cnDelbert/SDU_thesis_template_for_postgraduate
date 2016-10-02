@@ -1,0 +1,77 @@
+\newtoks\fenlei		     % 中图分类号
+\newtoks\DWdaihao	     % 单位代号
+\newtoks\miji		     % 密级
+\newtoks\StuNum		     % 学号
+\newtoks\CThesisType     % 论文类型 中
+\newtoks\EThesisType     % 论文类型 英
+\newtoks\Ctitle		     % 中文标题
+\newtoks\Etitle		     % 英文标题
+\newtoks\Cauthor	     % 作者中文名
+\newtoks\Cmajor		     % 专业
+\newtoks\Csuperver	     % 导师
+\newtoks\Ccosuperver     % 合作导师
+\newtoks\Cdate		     % 中文日期
+\newtoks\Dpart		     % 学院
+\newtoks\Grade		     % 年级
+\newtoks\ThesisHeader	 % 正文页眉
+\newtoks\EThesisHeader   % 英文页眉
+
+\RequirePackage{makecell}
+\newcommand{\LeftLength}{2.3cm}
+\newcommand{\RightLength}{5.5cm}
+\newcommand{\Mcs}[1]{\makebox[\LeftLength][s]{{\zihao{3}\bfseries\songti{}#1}}}
+\newcommand{\Mcc}[1]{\makebox[\RightLength][c]{{\zihao{-3}\heiti{}#1}}}
+\newcommand{\TopTitleLeft}[1]{\makebox[2cm][s]{{\zihao{4}\bfseries\songti{}#1}}}
+\newcommand{\TopTitleRight}[1]{\makebox[2.5cm][l]{{\zihao{4}\heiti{}#1}}}
+
+\newcommand{\maketitlepage}{%
+	\thispagestyle{empty}
+
+	\begin{flushleft}
+		\TopTitleLeft{分类号}：~~\TopTitleRight{\the\fenlei}\hfill\TopTitleLeft{单位代码}：~~\TopTitleRight{\the\DWdaihao}\\
+		\TopTitleLeft{密级}：~~\TopTitleRight{\the\miji}\hfill\TopTitleLeft{学号}：~~\TopTitleRight{\the\StuNum}
+	\end{flushleft}
+
+	\begin{center}
+		~
+		\vskip 12mm\relax
+
+		{
+			{\includegraphics[width = .5\textwidth]{SDUWords.jpg}}\\[3mm]
+			{\scalebox{4}{\fzbHei{}\the\CThesisType}}\\[4mm]
+			{\scalebox{1.3}{\fzbHei{}\the\EThesisType}}\\
+%			{\heiti{}（专业学位）}  % 科学学位请将本行注释掉
+		}
+		%\par \vskip 15mm \relax
+		{
+			\begin{flushleft}
+				{\zihao{3}\songti{}论文题目：~~}
+				\zihao{3}\heiti\the\Ctitle\\
+			\end{flushleft}
+		}
+
+		{
+		%	\noindent
+		%	\zihao{-1}\heiti\the\Ctitle\\
+			\vskip 2mm
+			\zihao{-3}\songti\the\Etitle
+		}
+		\vfill
+		{
+			\begin{tabular}{p{\LeftLength}p{\RightLength}}
+				\Mcs{作者姓名}& \Mcc{\the\Cauthor}\\[-.8mm]\cline{2-2}\\[-4mm]
+				%\Mcs{学号}& \Mcc{\the\StuNum}\\[-.8mm]\cline{2-2}\\[-4mm]
+				\Mcs{学院名称}& \Mcc{\the\Dpart}\\[-.8mm]\cline{2-2}\\[-4mm]
+				\Mcs{专业名称}& \Mcc{\the\Cmajor}\\[-.8mm]\cline{2-2}\\[-4mm]
+				%\Mcs{年级}& \Mcc{\the\Grade}\\[-.8mm]\cline{2-2}\\[-4mm]
+				\Mcs{指导老师}& \Mcc{\the\Csuperver}\\[-.8mm]\cline{2-2}\\[-4mm]
+				\Mcs{合作导师}& \Mcc{\the\Ccosuperver}\\[-.8mm]\cline{2-2}
+			\end{tabular}
+		}
+		\par \vskip 20mm \relax
+		{
+			\zihao{3}\the\Cdate
+		}
+	\end{center}
+	\clearpage
+}
