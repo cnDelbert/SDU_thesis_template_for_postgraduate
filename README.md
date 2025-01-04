@@ -51,7 +51,7 @@
 - `sduthesis-statement.def`： 原创性声明。
 - `SDUthesistemplate.tex`： 主文件，你的论文结构在此文件当中。
 - `sduthesis.cls`： 论文样式文件。
-- `fonts-file/`： 字体文件路径(目前没用)。
+- `fonts/`： 字体文件路径(用于自动加载字体)。
 - `figures/`： 图片存放路径，你也可以创建`figure`/`pictures`/`picture`/`pic`/`image`等路径。
 - `contents/`： 论文所在路径。其中`usersettings.tex` 为整个项目的设置。
 

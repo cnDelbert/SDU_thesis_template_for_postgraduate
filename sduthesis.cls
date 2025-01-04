@@ -39,7 +39,7 @@
 \ifpdf
 	\newcommand{\fzbHei}{\heiti}
 \else
-	\newCJKfontfamily[fzbighei]{\fzbHei}{方正大黑简体}
+	\newCJKfontfamily[fzbighei]{\fzbHei}{方正大黑简体}[Path=./fonts/]
 \fi
 %------中文支持------
 
