@@ -309,6 +309,7 @@
         format={\linespread{1.0}\selectfont\heiti\zihao{-4}\bfseries},
         beforeskip={12pt},
         afterskip={6pt},
+        aftername={\hspace{1em}},
         fixskip={true}
     },
     subsubsection = {
