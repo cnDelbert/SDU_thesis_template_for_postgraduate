@@ -54,6 +54,7 @@ local.properties
 .settings/
 .loadpath
 FTIP_TSC/
+.obsidian/
 
 # External tool builders
 .externalToolBuilders/
