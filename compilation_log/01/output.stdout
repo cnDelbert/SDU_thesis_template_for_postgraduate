@@ -1,0 +1,88 @@
+chktex exit: 0
+Rc files read:
+  /usr/local/share/latexmk/LatexMk
+Latexmk: This is Latexmk, John Collins, 27 Dec. 2024. Version 4.86a.
+Latexmk: Changing directory to '/compile/'
+Force *latex to be remade.
+------------
+Running 'internal overleaf_pre_process "SDUthesistemplate.tex" "output.pdf"'
+------------
+Latexmk: calling overleaf_pre_process( "SDUthesistemplate.tex" "output.pdf" )
+Latexmk: applying rule 'xelatex'...
+Rule 'xelatex':  Reasons for rerun
+Category 'other':
+  Rerun of 'xelatex' forced or previously required:
+    Reason or flag: 'go_mode=3'
+
+------------
+Run number 1 of rule 'xelatex'
+------------
+------------
+Running 'xelatex -no-pdf -synctex=1 -interaction=batchmode -recorder --jobname="output"  "SDUthesistemplate.tex"'
+------------
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex)
+ \write18 enabled.
+entering extended mode
+
+SyncTeX written on output.synctex.gz.Latexmk: Getting log file 'output.log'
+Latexmk: Examining 'output.fls'
+Latexmk: Examining 'output.log'
+Latexmk: Log file says output to 'output.xdv'
+Latexmk: applying rule 'xelatex'...
+Rule 'xelatex':  Reasons for rerun
+Changed files or newly in use/created:
+  output.aux
+  output.toc
+
+------------
+Run number 2 of rule 'xelatex'
+------------
+------------
+Running 'xelatex -no-pdf -synctex=1 -interaction=batchmode -recorder --jobname="output"  "SDUthesistemplate.tex"'
+------------
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex)
+ \write18 enabled.
+entering extended mode
+
+SyncTeX written on output.synctex.gz.Latexmk: Getting log file 'output.log'
+Latexmk: Examining 'output.fls'
+Latexmk: Examining 'output.log'
+Latexmk: Log file says output to 'output.xdv'
+Latexmk: applying rule 'xdvipdfmx'...
+Rule 'xdvipdfmx':  Reasons for rerun
+Changed files or newly in use/created:
+  output.xdv
+Category 'changed_source_rules':
+  xelatex
+Category 'no_dest':
+  xdvipdfmx
+
+------------
+Run number 1 of rule 'xdvipdfmx'
+------------
+------------
+Running 'xdvipdfmx -z 6 -i dvipdfmx-unsafe.cfg -o "output.pdf"  "output.xdv"'
+------------
+Latexmk: Summary of warnings from last run of *latex:
+  =====Latex reported missing or unavailable character(s).
+=====See log file for details.
+Latexmk: Errors, in force_mode: so I tried finishing targets
+------------
+Running 'internal overleaf_post_process "SDUthesistemplate.tex" "output.pdf"'
+------------
+Latexmk: calling overleaf_post_process( "SDUthesistemplate.tex" "output.pdf" )
+qpdf exit code=0
+Renaming optimised file to output.pdf
+Extracting xref table for output.pdf
+qpdf --show-xref exit code=0
+Collected error summary (may duplicate other messages):
+  xelatex: Command for 'xelatex' gave return code 1
+      Refer to 'output.log' and/or above output for details
+Latexmk: Undoing directory change
+'xelatex': time = 50.01
+'xelatex': time = 50.40
+'xdvipdfmx': time = 0.13
+Processing time = 101.18, of which invoked processes = 100.54, other = 0.64.
+Elapsed clock time = 102.79.
+Number of rules run = 3
+

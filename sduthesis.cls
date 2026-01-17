@@ -33,7 +33,7 @@
 %------print------
 
 %------中文支持------
-\RequirePackage[noindent,nocap,UTF8]{ctexcap}
+\RequirePackage[UTF8, scheme=plain, heading=true]{ctex}
 %----字体名
 \RequirePackage{ifpdf,ifxetex}
 \ifxetex
@@ -54,16 +54,17 @@
 \fi
 %------中文支持------
 
-%------行距------
-\linespread{1.3}
-\addtolength{\parskip}{.3ex}
-%------行距------
+%------行距与缩进------
+\linespread{1.38} % Approx 20pt fixed leading for Xiaosi (12pt)
+\setlength{\parskip}{0pt}
+\setlength{\parindent}{2em}
+%------行距与缩进------
 
 %------页面设置------
 \ifSDU@opt@double
-	\newcommand{\GeoOptions}{left=3.75cm, right=2.75cm, top=3cm, bottom=3cm}
+	\newcommand{\GeoOptions}{left=2.5cm, right=2.5cm, top=2.8cm, bottom=2.5cm, headsep=0.8cm, footskip=0.75cm, headheight=15pt}
 \else
-	\newcommand{\GeoOptions}{left=2.75cm, right=2.75cm, top=3cm, bottom=3cm}
+	\newcommand{\GeoOptions}{left=2.5cm, right=2.5cm, top=2.8cm, bottom=2.5cm, headsep=0.8cm, footskip=0.75cm, headheight=15pt}
 \fi
 \RequirePackage[\GeoOptions]{geometry}
 %------页面设置------
@@ -93,25 +94,36 @@
 \fancyhf{}
 \makeatletter
 \ifSDU@opt@chsstyle
-\chead{\zihao{5}\the\ThesisHeader}% 山东大学硕士学位论文
+\chead{\centering\songti\zihao{5}\the\ThesisHeader}% 山东大学硕士学位论文
 \else
-\chead{\small \the\EThesisHeader}
+\chead{\centering\small \the\EThesisHeader}
 \fi
 \makeatother
 % ----------页脚----------
-%\cfoot{--{~\thepage~}--}  % 页码居中显示
-\fancyfoot[LE,RO]{--{~\thepage~}--}   % 页码居外侧显示
+\cfoot{\centering\zihao{5}\thepage}  % 页码居中显示，Times New Roman 五号
+%\fancyfoot[LE,RO]{--{~\thepage~}--}   % 页码居外侧显示
 %----眉脚内容----
 %------页眉页脚------
 
 %------数学支持------
 \RequirePackage{amsmath}
+\RequirePackage{mathtools}
+% 公式编号带点
+\newtagform{dotted}[\dotfill]{(}{)}
+\usetagform{dotted}
 \RequirePackage{amsfonts}
 \RequirePackage{amsthm}
 \RequirePackage{amssymb}
 \RequirePackage{amsbsy}
 \RequirePackage{bm}
 \RequirePackage{mathrsfs}
+% Fix font size warnings for mathrsfs
+\DeclareFontFamily{U}{rsfs}{\skewchar\font127 }
+\DeclareFontShape{U}{rsfs}{m}{n}{%
+  <-6> rsfs5
+  <6-8> rsfs7
+  <8-> rsfs10
+}{}
 \newcommand*{\me}{\ensuremath{\mathrm{e}}}				%自然对数的底
 \newcommand*{\mi}{\ensuremath{\mathrm{i}}}				%虚数单位
 \newcommand*{\dif}{\ensuremath{\,\mathrm{d}}}			%微分算子
@@ -126,6 +138,15 @@
 
 %------图表支持------
 \RequirePackage{graphicx}
+\RequirePackage{caption}
+\RequirePackage{bicaption}
+\DeclareCaptionFont{cfFive}{\zihao{5}\songti}
+\DeclareCaptionFont{efFive}{\zihao{5}\rmfamily}
+\captionsetup{labelsep=quad,skip=6pt,justification=centering}
+\captionsetup[bi-first]{font={cfFive,stretch=1.0}}
+\captionsetup[bi-second]{font={efFive,stretch=1.0}}
+\captionsetup[figure][bi-second]{name=Fig.}
+\captionsetup[table][bi-second]{name=Tab.}
 %----图档搜索路径----
 \graphicspath{{figures/}{figure/}{pictures/}{picture/}{pic/}{pics/}{image/}{images/}}
 %----图档搜索路径----
@@ -134,9 +155,11 @@
 %\renewcommand\arraystretch{1.3}
 %%----表格行距----
 %----编号----
-\RequirePackage{amsmath}
 \numberwithin{figure}{chapter}
+\renewcommand{\thefigure}{\arabic{chapter}-\arabic{figure}}
 \numberwithin{table}{chapter}
+\renewcommand{\thetable}{\arabic{chapter}-\arabic{table}}
+\renewcommand{\theequation}{\arabic{chapter}-\arabic{equation}}
 %----编号----
 %----不浮动----
 \makeatletter
@@ -232,7 +255,7 @@
 \clearpage
 }
 
-\newcommand\cnabstractname{摘\quad{}要}
+\newcommand\cnabstractname{摘\texorpdfstring{\quad}{ }要}
 \newcommand\cnkeywordsname{关键词}
 \newcommand\cnkeywords[1]{\vspace{1cm}\noindent{\bfseries\zihao{-4}\cnkeywordsname: }#1}
 \newenvironment{cnabstract}{%
@@ -244,7 +267,7 @@
 %	\begin{minipage}[c]{.85\textwidth}
 	\phantomsection
 	\centerline{\vspace{.3cm}\zihao{-3}\bfseries\cnabstractname}\vspace{.3cm} %20150305 ADD%
-	\addcontentsline{toc}{chapter}{摘\quad{}要} %使目录中以章级别显示“摘要”
+	\addcontentsline{toc}{chapter}{摘\texorpdfstring{\quad}{ }要} %使目录中以章级别显示“摘要”
 	\addcontentsline{toe}{chapter}{Chinese Abstract}
 	\setlength{\parindent}{2em}
 	\zihao{-4}
@@ -259,36 +282,52 @@
 \makeatletter
 \ifSDU@opt@chsstyle
 %----标题与日期----
-\CTEXoptions[figurename={图},tablename={表},bibname={参考文献},contentsname={目\quad{}{}录}]
-\CTEXoptions[today=small]
+\ctexset{
+    figurename={图},
+    tablename={表},
+    bibname={参考文献},
+    contentsname={目\texorpdfstring{\quad}{ }录},
+    today=small,
+    chapter = {
+        name={第,章},
+        number={\chinese{chapter}},
+        format={\centering\linespread{1.0}\selectfont\heiti\zihao{-3}\bfseries},
+        nameformat={},
+        titleformat={},
+        aftername={\hspace{1em}},
+        beforeskip={24pt},
+        afterskip={18pt},
+        fixskip={true}
+    },
+    section = {
+        format={\linespread{1.0}\selectfont\heiti\zihao{4}\bfseries},
+        beforeskip={24pt},
+        afterskip={6pt},
+        fixskip={true}
+    },
+    subsection = {
+        format={\linespread{1.0}\selectfont\heiti\zihao{-4}\bfseries},
+        beforeskip={12pt},
+        afterskip={6pt},
+        fixskip={true}
+    },
+    subsubsection = {
+        format={\flushleft\zihao{-4}}
+    },
+    appendix = {
+        name={附录~},
+        number={\Alph{chapter}}
+    }
+}
 %----标题与日期----
 %----章节样式----
-%--chapter
-\CTEXsetup[name={第,章}]{chapter}
-\CTEXsetup[number={\chinese{chapter}}]{chapter}
-\CTEXsetup[format={\centering}]{chapter}
-\CTEXsetup[nameformat={\bfseries\zihao{3}}]{chapter}
-\CTEXsetup[titleformat={\bfseries\zihao{3}}]{chapter}
-\CTEXsetup[aftername={\quad{}}]{chapter}
-\CTEXsetup[beforeskip={10pt}]{chapter}
-\CTEXsetup[afterskip={10pt}]{chapter}
-%--section
-% \CTEXsetup[name={$\S$\,,}]{section} % 去掉章节前的双S花符号
-\CTEXsetup[format={\bfseries\flushleft\zihao{4}}]{section}
-%--subsection
-\CTEXsetup[format={\bfseries\flushleft\zihao{-4}}]{subsection}
-%--subsubsection
-\CTEXsetup[format={\flushleft\zihao{-4}}]{subsubsection}
-%--appendix
-\CTEXsetup[name={附录~}]{appendix}
-\CTEXsetup[number={\Alph{chapter}}]{appendix}
 %----------致谢---------------------
 \newcommand{\acknowledgment}
 {
 	\clearpage  %加这个命令后，目录中的页码才显示正确
 	\phantomsection %加这个命令后，目录中的超链接才指向正确的页码	
 	\chapter*{致\hspace{4ex}谢} %开始一段不带编号的章
-	\addcontentsline{toc}{chapter}{致\quad{}谢} %使目录中以章级别显示“致谢”
+	\addcontentsline{toc}{chapter}{致\texorpdfstring{\quad}{ }谢} %使目录中以章级别显示“致谢”
 	\addcontentsline{toe}{chapter}{Acknowledgement}
 }
 %----------致谢---------------------
@@ -333,6 +372,31 @@
  %   \pagenumbering{arabic}\setcounter{page}{1}
 }
 %------Make------
+%------脚注设置------
+\RequirePackage[perpage]{footmisc}
+\renewcommand{\footnotesize}{\zihao{-5}}
+\renewcommand{\thefootnote}{\arabic{footnote}}
+\makeatletter
+\renewcommand\@makefntext[1]{%
+  \parindent 0em%
+  \linespread{1.0}\selectfont
+  \noindent
+  \hb@xt@ 1.5em{\hss\@makefnmark}#1}
+\makeatother
+%------脚注设置------
+
+%------表格说明设置------
+\newcommand{\tablenote}[1]{%
+  \vspace{0pt}%
+  \begingroup
+  \zihao{5}\songti
+  \setlength{\parindent}{2em}%
+  \linespread{1.6}\selectfont % 20pt / 12.5pt (approx for Wuhao)
+  \noindent #1\par
+  \endgroup
+}
+%------表格说明设置------
+
 \endinput
 
 %------载入宏包------

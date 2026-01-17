@@ -1,0 +1,1589 @@
+ChkTeX v1.7.8 - Copyright 1995-96 Jens T. Berger Thielemann.
+Compiled with PCRE regex support.
+No errors printed; No warnings printed; 546 user suppressed warnings; No line suppressed warnings.
+
+kpathsea: Running mktextfm SimSun/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+kpathsea: Appending font creation commands to missfont.log.
+
+kpathsea: Running mktextfm SimSun/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm KaiTi/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm KaiTi/B/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimHei/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimHei/I/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimSun/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimSun/BI/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimSun/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimSun/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimHei/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimHei/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm KaiTi/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm KaiTi/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimHei
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation S for SimHei.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input SimHei
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf SimHei
+
+! I can't find file `SimHei'.
+<*> ...ljfour; mag:=1; ; nonstopmode; input SimHei
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> ...ljfour; mag:=1; ; nonstopmode; input SimHei
+                                                  
+Transcript written on mfput.log.
+grep: SimHei.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input SimHei' failed to make SimHei.tfm.
+
+kpathsea: Running mktextfm SimSun/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimSun/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimSun/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimSun/BI/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimSun/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimSun/B/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimSun/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimSun/I/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimSun/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimSun/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimSun/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimHei/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimHei/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimHei/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimHei/BI/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimHei/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimHei/B/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimHei/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimHei/I/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimHei/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimHei/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimHei/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimHei/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimHei/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimHei
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation S for SimHei.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input SimHei
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf SimHei
+
+! I can't find file `SimHei'.
+<*> ...ljfour; mag:=1; ; nonstopmode; input SimHei
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> ...ljfour; mag:=1; ; nonstopmode; input SimHei
+                                                  
+Transcript written on mfput.log.
+grep: SimHei.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input SimHei' failed to make SimHei.tfm.
+
+kpathsea: Running mktextfm SimHei/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+Latexmk: Important warning:
+  (\end occurred when \ifx on line 19 was incomplete) 
+
+kpathsea: Running mktextfm SimSun/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+kpathsea: Appending font creation commands to missfont.log.
+
+kpathsea: Running mktextfm SimSun/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm KaiTi/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm KaiTi/B/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimHei/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimHei/I/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimSun/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimSun/BI/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimSun/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimSun/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimHei/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimHei/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm KaiTi/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm KaiTi/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimHei
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation S for SimHei.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input SimHei
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf SimHei
+
+! I can't find file `SimHei'.
+<*> ...ljfour; mag:=1; ; nonstopmode; input SimHei
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> ...ljfour; mag:=1; ; nonstopmode; input SimHei
+                                                  
+Transcript written on mfput.log.
+grep: SimHei.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input SimHei' failed to make SimHei.tfm.
+
+kpathsea: Running mktextfm SimSun/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimSun/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimSun/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimSun/BI/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimSun/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimSun/B/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimSun/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimSun/I/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimSun/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimSun/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimSun/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimHei/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimHei/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimHei/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimHei/BI/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimHei/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimHei/B/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimHei/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimHei/I/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimHei/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimHei/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimHei/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimHei/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimHei/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+
+kpathsea: Running mktextfm SimHei
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation S for SimHei.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input SimHei
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf SimHei
+
+! I can't find file `SimHei'.
+<*> ...ljfour; mag:=1; ; nonstopmode; input SimHei
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> ...ljfour; mag:=1; ; nonstopmode; input SimHei
+                                                  
+Transcript written on mfput.log.
+grep: SimHei.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input SimHei' failed to make SimHei.tfm.
+
+kpathsea: Running mktextfm SimHei/OT
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Could not map source abbreviation O for OT.
+/usr/local/texlive/2025/texmf-dist/web2c/mktexnam: Need to update /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/special.map?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+This is METAFONT, Version 2.71828182 (TeX Live 2025) (preloaded base=mf)
+
+kpathsea: Running mktexmf OT
+
+! I can't find file `OT'.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> \mode:=ljfour; mag:=1; ; nonstopmode; input OT
+                                                  
+Transcript written on mfput.log.
+grep: OT.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input OT' failed to make OT.tfm.
+Latexmk: Important warning:
+  (\end occurred when \ifx on line 19 was incomplete) 
+output.xdv -> output.pdf
+[1
+xdvipdfmx:warning: Trying to include PDF file with version (1.6), which is newer than current output PDF setting (1.5).
+][2][3
+xdvipdfmx:warning: Object @page.1 already defined.
+][4
+xdvipdfmx:warning: Object @page.2 already defined.
+][5][6][7][8][9][10][11
+xdvipdfmx:warning: Object @page.1 already defined.
+][12
+xdvipdfmx:warning: Object @page.2 already defined.
+][13][14][15][16][17][18][19][20][21][22][23][24][25][26][27][28]
+2388803 bytes written
+Latexmk: ====Undefined refs and citations with line #s in .tex file:
+  Missing character: There is no 分 (U+5206) in font Times New Roman/OT:language=dflt;mapping=tex-text;!
+  Missing character: There is no 类 (U+7C7B) in font Times New Roman/OT:language=dflt;mapping=tex-text;!
+  Missing character: There is no 号 (U+53F7) in font Times New Roman/OT:language=dflt;mapping=tex-text;!
+  Missing character: There is no ： (U+FF1A) in font Times New Roman/OT:language=dflt;mapping=tex-text;!
+  Missing character: There is no 单 (U+5355) in font Times New Roman/OT:language=dflt;mapping=tex-text;!
+  Missing character: There is no 位 (U+4F4D) in font Times New Roman/OT:language=dflt;mapping=tex-text;!
+  Missing character: There is no 代 (U+4EE3) in font Times New Roman/OT:language=dflt;mapping=tex-text;!
+ And 5408 more --- see log file 'output.log'

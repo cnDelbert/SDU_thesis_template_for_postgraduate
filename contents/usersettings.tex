@@ -14,7 +14,7 @@
 % \usepackage{picinpar}
 % \usepackage{picins}
 % 使用 ccmap，则英文和数字都正常。如果论文重复率高的话，注释掉 ccmap ，英文和数字被映射为汉字，相当于增加干扰码，降低重复率。
-\usepackage{ccmap}
+% \usepackage{ccmap}
 
 % \newtheorem{环境名}[编号延续]{显示名}[编号层次]
 % 在下例中，我们定义了四个环境：定义、定理、引理和推论，它们都在一个section内编号，而引理和推论会延续定理的编号。
@@ -31,6 +31,4 @@ frame=shadowbox,rulesepcolor=\color{red!20!green!20!blue!20},escapeinside=``,
 xleftmargin=2em,xrightmargin=2em,aboveskip=1em,backgroundcolor=\color{red!3!green!3!blue!3},
 basicstyle=\small\ttfamily,stringstyle=\color{purple},keywordstyle=\color{blue!80}\bfseries,
 commentstyle=\color{olive}}
-\numberwithin{footnote}{page}
-\renewcommand{\thefootnote}{\arabic{footnote}}
 \renewcommand{\CTeX}{\SHUANG{C}\TeX}
