@@ -302,13 +302,13 @@
     section = {
         format={\linespread{1.0}\selectfont\heiti\zihao{4}\bfseries},
         beforeskip={24pt},
-        afterskip={6pt},
+        afterskip={12pt},
         fixskip={true}
     },
     subsection = {
         format={\linespread{1.0}\selectfont\heiti\zihao{-4}\bfseries},
-        beforeskip={12pt},
-        afterskip={6pt},
+        beforeskip={24pt},
+        afterskip={12pt},
         aftername={\hspace{1em}},
         fixskip={true}
     },

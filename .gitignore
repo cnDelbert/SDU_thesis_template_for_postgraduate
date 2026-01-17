@@ -53,6 +53,7 @@ local.properties
 .classpath
 .settings/
 .loadpath
+FTIP_TSC/
 
 # External tool builders
 .externalToolBuilders/
